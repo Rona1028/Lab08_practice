@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab08_practice</string>
+    <string name="question_1_radio_a" />
+    <string name="question_1" />
+    <string name="question_1_radio_b" />
+    <string name="question_1_radio_c" />
+    <string name="question_2" />
+    <string name="question_2_radio_a" />
+    <string name="question_2_radio_b" />
+    <string name="question_2_radio_c" />
+    <string name="question_3" />
+    <string name="question_3_radio_a" />
+    <string name="question_3_radio_b" />
+    <string name="question_3_radio_c" />
+</resources>
